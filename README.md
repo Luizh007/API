@@ -21,3 +21,5 @@ Agora crie um servidor você precisa criar um servidor web que irá ouvir as sol
                           console.log('API running on port 3000');
                            });
 Este é apenas uns dos exemplos que existem simples de como criar uma API em JavaScript usando o framework Express.
+Lembrado todos os arquivos javascript dentro das pastas ou subpastas automaticamente vão ser disponibilizadas como
+rotas públicas
